@@ -59,3 +59,8 @@ This project is licensed under the MIT License. You are free to use, modify, and
 ## About
 
 Created as part of a portfolio-building exercise for business analysts, program managers, and data analysts seeking to demonstrate data exploration and predictive modeling skills on a synthetic project management dataset.
+
+
+## Notes
+
+This update demonstrates a pull request workflow by adding a notes section to the README.
